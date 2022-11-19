@@ -46,3 +46,7 @@ Once the model analyses the uploaded image, the prediction is showcased on the U
 ## Application Building
         Create an HTML file
         Build Python Code
+
+
+# PROJECT DEMO LINK : https://youtu.be/5WhpAyNrnTA
+ 
